@@ -18,7 +18,7 @@
 **Function:** Get the user to keep guessing numbers between 1-10 until it is correct  
 **Key code:** random.randint(), while loop, relational operators  
 **View Notebook:** [Open in Colab](https://colab.research.google.com/drive/1hA-IMR7R0_Y3f4eAMXHvkzFRlN7kSwSC?usp=sharing)  
-**File** [Guess Theu Number Game](Guess_The_Number_Game.ipynb)
+**File** [Guess The Number Game](Guess_The_Number_Game.ipynb)
 
 #### To Do List Manager  
 **Function:** The User can view, add, delete and mark tasks as complete  
